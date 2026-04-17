@@ -1,4 +1,4 @@
-# 📊 Foundation of Data Visualization
+# Foundation of Data Visualization
 
 A beginner-friendly guide to understanding how to turn raw data into meaningful insights using Python, Seaborn, and Plotly.
 
